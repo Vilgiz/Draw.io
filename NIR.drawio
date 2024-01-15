@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T17:59:57.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="rMlVvpD6rLpPmnGsBP-b" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T18:01:33.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="gGrZyAffpaiByoENIDel" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="5iXapvdDTKxh6Ph4uESu">
     <mxGraphModel dx="604" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -740,6 +740,33 @@
         </mxCell>
         <mxCell id="xJvMsFEPVGjwEFfxOfTY-51" value="ЭВМ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2400" y="180" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xJvMsFEPVGjwEFfxOfTY-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.165;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_u0slIl38g5vp5mHSWFX-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2296.2" y="50" as="sourcePoint" />
+            <mxPoint x="2296.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJvMsFEPVGjwEFfxOfTY-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.165;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2346.0899999999997" y="51" as="sourcePoint" />
+            <mxPoint x="2345.89" y="92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJvMsFEPVGjwEFfxOfTY-54" value="Ограничение&lt;br&gt;кинематики&lt;br&gt;робота" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2296.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJvMsFEPVGjwEFfxOfTY-55" value="Программа &lt;br&gt;безопасности &lt;br&gt;движения робота" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xJvMsFEPVGjwEFfxOfTY-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.165;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2399.5899999999997" y="50" as="sourcePoint" />
+            <mxPoint x="2399.39" y="91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xJvMsFEPVGjwEFfxOfTY-58" value="Калибровка&lt;br&gt;СТЗ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2385" y="10" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
