@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T17:26:54.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="CoT2uciyJsnocrUPmhA0" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T17:30:09.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="34EeZrhPZTlPiyGGSdtF" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="5iXapvdDTKxh6Ph4uESu">
     <mxGraphModel dx="797" dy="10454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -1219,7 +1219,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y9jin8DKB63_jD07hHpc-11" value="Вычислительная &lt;br&gt;мощность" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4090" y="67" width="120" height="40" as="geometry" />
+          <mxGeometry x="4240" y="67" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-12" value="Gmapping&lt;br&gt;ROS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="-75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.801;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4270.23" y="-70.91" as="sourcePoint" />
+            <mxPoint x="4269.999999999999" y="-20.000000000000146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y9jin8DKB63_jD07hHpc-14" target="y9jin8DKB63_jD07hHpc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-14" value="Локализация робота&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="210" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-15" value="Картографирования местности" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4314.62" y="210" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-18" value="Данные с &lt;br&gt;датчиков" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4000.38" y="187.34" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4010" y="241.8599999999998" as="sourcePoint" />
+            <mxPoint x="4090" y="241.8599999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4464.62" y="241.85999999999976" as="sourcePoint" />
+            <mxPoint x="4544.62" y="241.85999999999976" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-22" value="Карта местности" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4464.62" y="187.34" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-23" value="Данные о&amp;nbsp;&lt;br&gt;местоположении&lt;br&gt;робота" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="162" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
