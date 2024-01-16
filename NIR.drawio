@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T17:30:09.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="34EeZrhPZTlPiyGGSdtF" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T17:31:28.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="ub-DWxz_DtMwzcQJkIXo" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="5iXapvdDTKxh6Ph4uESu">
     <mxGraphModel dx="797" dy="10454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -1219,7 +1219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y9jin8DKB63_jD07hHpc-11" value="Вычислительная &lt;br&gt;мощность" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4240" y="67" width="120" height="40" as="geometry" />
+          <mxGeometry x="4220" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y9jin8DKB63_jD07hHpc-12" value="Gmapping&lt;br&gt;ROS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4180" y="-75" width="80" height="40" as="geometry" />
@@ -1259,6 +1259,28 @@
         </mxCell>
         <mxCell id="y9jin8DKB63_jD07hHpc-23" value="Данные о&amp;nbsp;&lt;br&gt;местоположении&lt;br&gt;робота" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4220" y="162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="y9jin8DKB63_jD07hHpc-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4220" y="390" as="sourcePoint" />
+            <mxPoint x="4220" y="377.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4220" y="360" />
+              <mxPoint x="4352" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-25" value="Вычислительная &lt;br&gt;мощность" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y9jin8DKB63_jD07hHpc-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="y9jin8DKB63_jD07hHpc-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4220" y="360" as="sourcePoint" />
+            <mxPoint x="4270" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4165" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
