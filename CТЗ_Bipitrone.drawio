@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T19:23:58.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="Cq5BhsGyBHG_5up_WS9W" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T19:24:36.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="via6rO6qiSXy3v9u1yQG" version="22.1.21" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1010" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -178,6 +178,11 @@
         <mxCell id="G1r1ogDtnRM8wa2x4b39-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G1r1ogDtnRM8wa2x4b39-82" target="G1r1ogDtnRM8wa2x4b39-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="G1r1ogDtnRM8wa2x4b39-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G1r1ogDtnRM8wa2x4b39-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2560.0000000000005" y="1429.913043478261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-82" value="Перейти в систему координат работа" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2100" y="1394.52" width="150" height="70" as="geometry" />
         </mxCell>
@@ -261,7 +266,7 @@
           <mxGeometry x="1780" y="1243.95" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-102" value="Координаты деталей&lt;br&gt;в системе координат&lt;br&gt;робота" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2257" y="1386.52" width="140" height="60" as="geometry" />
+          <mxGeometry x="2250" y="1356.52" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-103" value="Обновленные&lt;br&gt;координаты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2060" y="1325.47" width="100" height="40" as="geometry" />
