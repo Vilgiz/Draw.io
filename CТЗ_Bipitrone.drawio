@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T06:43:57.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="waYGFgb0yGGA_9QxstGl" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-21T06:44:17.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="sjyk_6CWU7FtGPYUiSIG" version="22.1.21" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1935" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -608,22 +608,22 @@
         </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-216" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4050" y="1955.1599999999999" as="sourcePoint" />
-            <mxPoint x="4130" y="1955.1599999999999" as="targetPoint" />
+            <mxPoint x="3240" y="1369.04" as="sourcePoint" />
+            <mxPoint x="3320" y="1369.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-217" value="Координаты&lt;br&gt;деталей" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4050" y="1911.81" width="90" height="40" as="geometry" />
+          <mxGeometry x="3240" y="1325.69" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-218" value="Передать данные по TCP/IP на робота" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3900" y="1920.29" width="150" height="70" as="geometry" />
+          <mxGeometry x="3090" y="1334.17" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-219" value="Координаты&lt;br&gt;обнаруженных&lt;br&gt;объектов" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3870" y="1811.81" width="110" height="60" as="geometry" />
+          <mxGeometry x="3060" y="1225.69" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="G1r1ogDtnRM8wa2x4b39-218">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3850" y="1856.81" as="sourcePoint" />
+            <mxPoint x="3040" y="1270.69" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
