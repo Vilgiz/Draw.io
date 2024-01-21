@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T07:05:35.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="9BCVkW-atrm6y08ypyS_" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-21T07:18:34.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="ajMix6e7UDGlqksOzOkn" version="22.1.21" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1548" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1010" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -625,8 +625,8 @@
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qx3LLfo7_ExvAkdQbsRg-6" target="qx3LLfo7_ExvAkdQbsRg-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qx3LLfo7_ExvAkdQbsRg-6" value="Изменить параметр&lt;br&gt;предобработки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980.15" y="1637.6999999999998" width="150" height="70" as="geometry" />
+        <mxCell id="qx3LLfo7_ExvAkdQbsRg-6" value="Изменить параметры&lt;br&gt;путем автоматической&lt;br&gt;подборки параметров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980.15" y="1620" width="150" height="87.7" as="geometry" />
         </mxCell>
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1687.6999999999998" width="20" height="20" as="geometry" />
@@ -664,7 +664,7 @@
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qx3LLfo7_ExvAkdQbsRg-20" target="qx3LLfo7_ExvAkdQbsRg-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qx3LLfo7_ExvAkdQbsRg-20" value="Изменить параметр&lt;br&gt;предобработки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qx3LLfo7_ExvAkdQbsRg-20" value="Изменить параметры&lt;br&gt;путем ввода с&amp;nbsp;&lt;br&gt;интерфейса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820.29" y="1717.12" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -677,22 +677,22 @@
           <mxGeometry x="810" y="1818.6399999999999" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-25" value="Сохраненные &lt;br&gt;шаблоны обработки&amp;nbsp;&lt;br&gt;изображения" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="915.15" y="1566.1799999999998" width="140" height="60" as="geometry" />
+          <mxGeometry x="915.15" y="1548.4799999999998" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1049.15" y="1596.1799999999998" as="sourcePoint" />
-            <mxPoint x="1049.15" y="1636.1799999999998" as="targetPoint" />
+            <mxPoint x="1049.15" y="1578.4799999999998" as="sourcePoint" />
+            <mxPoint x="1049.15" y="1618.4799999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1069.94" y="1592.6999999999998" as="sourcePoint" />
-            <mxPoint x="1069.94" y="1637.6999999999998" as="targetPoint" />
+            <mxPoint x="1069.94" y="1574.9999999999998" as="sourcePoint" />
+            <mxPoint x="1069.94" y="1619.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-30" value="Сигнал о дополнительной&lt;br&gt;корректировке параметров&lt;br&gt;СТЗ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980.15" y="1519.9099999999999" width="170" height="60" as="geometry" />
+          <mxGeometry x="980.15" y="1502.2099999999998" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qx3LLfo7_ExvAkdQbsRg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
