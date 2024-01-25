@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T12:58:34.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="bmUl5xeZd75LrisVh8K-" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T14:42:01.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx 05)" etag="eJao6k_BAtjHY-A1272q" version="23.0.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1290" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -383,8 +383,8 @@
             <mxPoint x="2710.5" y="1895.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1r1ogDtnRM8wa2x4b39-147" value="Сигнал о корректировке&lt;br&gt;вибростолом" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2700.5" y="1890.94" width="160" height="40" as="geometry" />
+        <mxCell id="G1r1ogDtnRM8wa2x4b39-147" value="Сигнал о корректировке&lt;br&gt;местоположения деталей" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2695.5" y="1890.94" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G1r1ogDtnRM8wa2x4b39-148" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
