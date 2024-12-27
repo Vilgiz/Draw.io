@@ -1291,7 +1291,7 @@
         <mxCell id="nr77QEGSNiN7oTZ64g_G-629" value="Брак ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4210" y="3731.16" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nr77QEGSNiN7oTZ64g_G-646" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nr77QEGSNiN7oTZ64g_G-633" target="nr77QEGSNiN7oTZ64g_G-645">
+        <mxCell id="nr77QEGSNiN7oTZ64g_G-670" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nr77QEGSNiN7oTZ64g_G-633" target="nr77QEGSNiN7oTZ64g_G-669">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nr77QEGSNiN7oTZ64g_G-633" value="Оправляет сигнал о качественной детали" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1330,7 +1330,7 @@
           <mxGeometry x="4239.5" y="3650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr77QEGSNiN7oTZ64g_G-645" value="Деталь отправляется в отправочную тару" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4030" y="3930" width="120" height="60" as="geometry" />
+          <mxGeometry x="4030" y="4020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nr77QEGSNiN7oTZ64g_G-647" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nr77QEGSNiN7oTZ64g_G-648" target="nr77QEGSNiN7oTZ64g_G-649">
           <mxGeometry relative="1" as="geometry" />
@@ -1381,6 +1381,12 @@
         </mxCell>
         <mxCell id="nr77QEGSNiN7oTZ64g_G-667" value="Деталь отправляется в отбраковочную тару" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4450" y="4020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nr77QEGSNiN7oTZ64g_G-671" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nr77QEGSNiN7oTZ64g_G-669" target="nr77QEGSNiN7oTZ64g_G-645">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nr77QEGSNiN7oTZ64g_G-669" value="API формирует задачу на перемещение бракованной детали" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4030" y="3930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
