@@ -1,9 +1,65 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Страница — 1" id="bRe7LTkUJOihUxxeWxYK">
-    <mxGraphModel>
+    <mxGraphModel dx="893" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-1" value="Какой результат получим при анодировании олова с разными параметрами анодирования?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1070" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="879.8571428571429" as="targetPoint" />
+            <mxPoint x="230" y="880" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-2" value="2. мат часть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uk_n_xnJWJr6FniGd_VK-3" target="uk_n_xnJWJr6FniGd_VK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-3" value="3. экспериментальная часть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uk_n_xnJWJr6FniGd_VK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-4" value="1. теор часть" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-6" value="Анодирование как метод" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-7" value="Параметры анодирования как средство достижения результата" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="745" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-10" value="Как и почему параметры анодирования влияют на результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="840" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-11" value="Как и почему параметры анодирования дали &lt;br&gt;определенные результаты в твоем исследовании" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1010" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-13" value="Как ты пришла к параметрам в теории" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="890" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk_n_xnJWJr6FniGd_VK-14" target="uk_n_xnJWJr6FniGd_VK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-14" value="результаты третьей части надо&lt;div&gt;&amp;nbsp;подогнать под вторую часть&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="930" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uk_n_xnJWJr6FniGd_VK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="910" as="sourcePoint" />
+            <mxPoint x="170" y="924.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.473;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uk_n_xnJWJr6FniGd_VK-11" target="uk_n_xnJWJr6FniGd_VK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
