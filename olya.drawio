@@ -34,13 +34,13 @@
           <mxGeometry x="310" y="700" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uk_n_xnJWJr6FniGd_VK-7" value="Параметры анодирования как средство достижения результата" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="745" width="380" height="30" as="geometry" />
+          <mxGeometry x="310" y="730" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uk_n_xnJWJr6FniGd_VK-10" value="Как и почему параметры анодирования влияют на результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="840" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uk_n_xnJWJr6FniGd_VK-11" value="Как и почему параметры анодирования дали &lt;br&gt;определенные результаты в твоем исследовании" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1010" width="300" height="40" as="geometry" />
+          <mxGeometry x="350" y="990" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uk_n_xnJWJr6FniGd_VK-13" value="Как ты пришла к параметрам в теории" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="890" width="240" height="30" as="geometry" />
@@ -59,6 +59,15 @@
         </mxCell>
         <mxCell id="uk_n_xnJWJr6FniGd_VK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.473;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uk_n_xnJWJr6FniGd_VK-11" target="uk_n_xnJWJr6FniGd_VK-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-19" value="Нанотрубки как перспективный материал" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1138" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-20" value="Нанотрубки как перспективный материал" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uk_n_xnJWJr6FniGd_VK-21" value="0. введение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
