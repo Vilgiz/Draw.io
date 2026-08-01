@@ -1,52 +1,29 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Страница-1" id="k55rGD7uux4_n4K8cd9B">
-    <mxGraphModel dx="1035" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-21" edge="1" parent="1" source="MYSpoyjpNu6vXJc0FHPP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MYSpoyjpNu6vXJc0FHPP-9">
+        <mxCell id="TUlkpAYviOZ7-B85XJeH-2" edge="1" parent="1" source="MYSpoyjpNu6vXJc0FHPP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MYSpoyjpNu6vXJc0FHPP-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MYSpoyjpNu6vXJc0FHPP-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Репетитор" vertex="1">
-          <mxGeometry height="60" width="30" x="50" y="320" as="geometry" />
+          <mxGeometry height="60" width="30" x="90" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-20" edge="1" parent="1" source="MYSpoyjpNu6vXJc0FHPP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MYSpoyjpNu6vXJc0FHPP-9">
+        <mxCell id="TUlkpAYviOZ7-B85XJeH-1" edge="1" parent="1" source="MYSpoyjpNu6vXJc0FHPP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="MYSpoyjpNu6vXJc0FHPP-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MYSpoyjpNu6vXJc0FHPP-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Ученик" vertex="1">
-          <mxGeometry height="60" width="30" x="50" y="210" as="geometry" />
+          <mxGeometry height="60" width="30" x="90" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-23" edge="1" parent="1" source="MYSpoyjpNu6vXJc0FHPP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" target="MYSpoyjpNu6vXJc0FHPP-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-24" edge="1" parent="1" source="MYSpoyjpNu6vXJc0FHPP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MYSpoyjpNu6vXJc0FHPP-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="311" width="110" x="430" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-22" edge="1" parent="1" source="MYSpoyjpNu6vXJc0FHPP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MYSpoyjpNu6vXJc0FHPP-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="315.4999999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="311" width="110" x="220" y="160" as="geometry" />
-        </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Балансировщик" vertex="1">
-          <mxGeometry height="20" width="110" x="220" y="160" as="geometry" />
+        <mxCell id="MYSpoyjpNu6vXJc0FHPP-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Возможности ученика:&lt;div&gt;- Регистрация и авторизация&lt;br&gt;&lt;div&gt;- Бронировать занятия&lt;br&gt;&lt;div&gt;- Скачивать материалы уроков и ДЗ&lt;br&gt;- Отслеживать результаты проверок ДЗ&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Возможности репетитора:&lt;div&gt;- Регистрация и авторизация&lt;br&gt;&lt;div&gt;- Бронировать занятия&lt;br&gt;&lt;div&gt;- Редактировать и выкладывать материалы уроков и ДЗ&lt;br&gt;- Осуществлять проверки ДЗ&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="311" width="220" x="230" y="150" as="geometry" />
         </mxCell>
         <mxCell id="MYSpoyjpNu6vXJc0FHPP-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сервис" vertex="1">
-          <mxGeometry height="20" width="110" x="430" y="160" as="geometry" />
+          <mxGeometry height="20" width="110" x="230" y="150" as="geometry" />
         </mxCell>
         <mxCell id="MYSpoyjpNu6vXJc0FHPP-17" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="PostgreSQL" vertex="1">
-          <mxGeometry height="90" width="76" x="616" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-19" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="Реплика&lt;br&gt;PostgreSQL" vertex="1">
-          <mxGeometry height="90" width="76" x="616" y="330" as="geometry" />
-        </mxCell>
-        <mxCell id="MYSpoyjpNu6vXJc0FHPP-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="НTTP" vertex="1">
-          <mxGeometry height="30" width="60" x="160" y="280" as="geometry" />
+          <mxGeometry height="90" width="76" x="520" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
